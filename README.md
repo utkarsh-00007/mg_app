@@ -1,6 +1,6 @@
 <!-- <img align="center" src="https://raw.githubusercontent.com/mg-app/utkarsh-00007/Chat.png"/> -->
 <div align = center>
-<img src='chaticon.png' width='250' align='center'>
+<img src='images/chaticon.png' width='250' align='center'>
  
 
 # Bumbble (Chat-App)
@@ -15,7 +15,7 @@
 
 <p algin = "center"><a href="https://github.com/utkarsh-00007/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=It%20is%20a%20Chat%20App%20;It%20is%20made%20using%20Flutter%20and%20Dart%20;&font=Fira%20Code&left=true&width=440&height=45&color=DodgerBlue&vleft=true&size=22"></a>
 </p>
-  </div>
+<!--   </div> -->
 
 <!-- ## Getting Started
 
@@ -31,7 +31,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference. -->
 
   
-## Introduction To Technologies Used 
+# Introduction To Technologies Used 
+ 
+</div>
+
 ###  1- Dart (Programming Language) :
 - It is a platform-independent language and supports all operating systems.
 - It is an open-source language, which means it available free for everyone.
@@ -55,7 +58,17 @@ samples, guidance on mobile development, and a full API reference. -->
 - There is no server infrastructure required to power apps with data.
 - It has JSON storage, which means no barrier between data and objects.
 
+
+<br>
+
 <div align = center>
+
+# Application UI
+<img width="20%" src="images/signuppage1.jpg" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp; <img width="20%" src="images/signuppage2.jpg" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="20%" src="images/loginpage1.jpg" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="20%" src="images/loginpage2.jpg" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; 
+<br><br><img width="20%" src="images/homepage1.jpg" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp;  <img width="20%" src="images/profilepage.jpg" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="20%" src="images/searchpage3.jpg" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="20%" src="images/chatpage.jpg" alt="UTKARSH DWIVEDI"> 
+
+
+<br>
 
 # Contributors:
 
